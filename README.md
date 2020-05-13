@@ -1,5 +1,7 @@
 # SimpleTimeFormat
 
+**仓库已合并到[JUtils](https://github.com/i-guitar/JUtils)中**
+
 > 模仿SimpleDateFormat写的时间格式化工具类，作为其补充，使用方式完全一致
 
 * 使用demo见 [com.joe.utils.SimpleTimeFormatTest](https://github.com/I-Guitar/SimpleTimeFormat/blob/master/src/test/java/com/joe/utils/SimpleTimeFormatTest.java)
