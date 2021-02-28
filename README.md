@@ -1,6 +1,6 @@
 # SimpleTimeFormat
 
-**此仓库已合并到[JUtils](https://github.com/i-guitar/JUtils)中，此处将不再维护**
+**此仓库已合并到[Jokit](https://github.com/hu-jinwen/Jokit)中，此处将不再维护**
 
 > 模仿SimpleDateFormat写的时间格式化工具类，作为其补充，使用方式完全一致
 
